@@ -43,3 +43,13 @@ El **Hospital San Juan** recibe 500 radiografías diarias y enfrenta:
 
 - [Informe Word Drive](https://docs.google.com/document/d/1fYen3eX8xAYZzkzhBPpkCiP5DQIlwv52tCy4pYlnrYM/edit?tab=t.0#heading=h.cbbhtn70u1wl)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/?locale=es) Cada vez que uses esta herramienta en Google Cloud Console, debemos entrar con una ventana en incognito y entrar con el usuario y password que te dan.
+- [Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning](<https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5>)
+- [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- [3rd place solution for the 2018 RSNA Pneumonia Detection Challenge](https://github.com/pmcheng/rsna-pneumonia)
+- [Pneumonia-Diagnosis-using-XRays-96-percent-Recall](https://github.com/deadskull7/Pneumonia-Diagnosis-using-XRays-96-percent-Recall)
+- [EfficientNet](https://paperswithcode.com/method/efficientnet)
+- [¿Qué es el método Grad-CAM](https://datascientest.com/es/que-es-el-metodo-grad-cam)
+
+### Desarrollo
+
+Se realizaron modificaciones en el informe hoy 25/03/2025, gracias a buscar información y referencias (hubo uso de IA para entender mejor ciertas herramientas y modos de trabajo).
