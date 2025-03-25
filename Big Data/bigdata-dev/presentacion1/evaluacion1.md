@@ -36,3 +36,10 @@ El **Hospital San Juan** recibe 500 radiografías diarias y enfrenta:
 - Propuesta de arquitectura, especificar herramientas que se deben utilizar y cuáles no, justificándolas
 - Propuesta para establecer un “gobierno de datos”
 - Asociar la problemática a una arquitectura de referencia indicando elementos que pueden faltar o no ser requeridos.
+
+---
+
+### Links o recursos que se utilizarán para trabajar con el proyecto
+
+- [Informe Word Drive](https://docs.google.com/document/d/1fYen3eX8xAYZzkzhBPpkCiP5DQIlwv52tCy4pYlnrYM/edit?tab=t.0#heading=h.cbbhtn70u1wl)
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/?locale=es) Cada vez que uses esta herramienta en Google Cloud Console, debemos entrar con una ventana en incognito y entrar con el usuario y password que te dan.
